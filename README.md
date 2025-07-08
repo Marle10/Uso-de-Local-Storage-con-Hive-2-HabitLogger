@@ -1,6 +1,5 @@
-# Uso-de-Local-Storage-con-Hive-2-HabitLogger
+# Uso-de-Local-Storage-con-Hive-HabitLogger
 
-# 📱 Habit Logger – App Flutter de Registro de Hábitos
 
 Una aplicación móvil sencilla hecha con Flutter que permite a los usuarios:
 
