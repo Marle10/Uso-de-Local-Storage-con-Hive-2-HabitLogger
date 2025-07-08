@@ -1,0 +1,16 @@
+name: habit_logger
+description: App de registro de hábitos con Hive
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.2
+
+flutter:
+  uses-material-design: true
